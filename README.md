@@ -1,15 +1,11 @@
-# Responsive Medical Website 
-## [Watch it on youtube](https://youtu.be/VTqehZ4fk_4)
-### Responsive Medical Website 
+# Responsive Medical Website
 
-- Responsive Medical Website Using HTML CSS JavaScript 
-- Contains animations when scrolling.
-- Smooth scrolling in each section.
-- Real-time map location.
-- Includes a dark & light theme.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+Ek responsive medical website jo HTML, CSS, aur JavaScript se banayi gayi hai.
 
-💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/@Bedimcode)
-
-![preview img](/preview.png)
+## Features
+- Scrolling ke sath animations
+- Smooth scrolling har section mein
+- Real-time map location
+- Dark aur light theme dono available
+- Mobile-first design, phir desktop ke liye optimize
+- Sabhi mobile devices ke sath compatible
