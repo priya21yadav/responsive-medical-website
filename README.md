@@ -1,11 +1,11 @@
 # Responsive Medical Website
 
-Ek responsive medical website jo HTML, CSS, aur JavaScript se banayi gayi hai.
+A responsive medical website built using HTML, CSS, and JavaScript.
 
 ## Features
-- Scrolling ke sath animations
-- Smooth scrolling har section mein
+- Scroll-based animations
+- Smooth scrolling in each section
 - Real-time map location
-- Dark aur light theme dono available
-- Mobile-first design, phir desktop ke liye optimize
-- Sabhi mobile devices ke sath compatible
+- Both dark and light theme available
+- Developed with mobile-first approach, then optimized for desktop
+- Compatible with all mobile devices
